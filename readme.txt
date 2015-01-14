@@ -1,3 +1,4 @@
 Dependencies:
 - zombie
 - nodeunit
+- Q
