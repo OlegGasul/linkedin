@@ -1,0 +1,2 @@
+nodeunit tests.js
+pause
