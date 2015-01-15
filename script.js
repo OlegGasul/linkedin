@@ -1,4 +1,5 @@
 var linkedin = require("./linkedin");
+
 linkedin.changePassword("oleg.gasul@gmail.com", "anacondaOLEg1982", "anacondaOLEg1982")
 .then(function onSuccess(message) {
 	console.log(message);
